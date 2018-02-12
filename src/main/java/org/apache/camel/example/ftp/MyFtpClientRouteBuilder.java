@@ -40,6 +40,7 @@ public class MyFtpClientRouteBuilder extends RouteBuilder {
 
         // use system out so it stand out
         System.out.println("*********************************************************************************");
+        System.out.println("SFTP al iSeries: ");
         System.out.println("Camel will route files from target/upload directory to the FTP server: "
                 + getContext().resolvePropertyPlaceholders("{{ftp.server}}"));
         System.out.println("You can configure the location of the ftp server in the src/main/resources/ftp.properties file.");
