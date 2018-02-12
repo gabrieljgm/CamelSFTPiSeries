@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel :: Example :: FTP
+Implementation-Version: 2.19.4
+Built-By: ggaleano
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Camel :: Example :: FTP
+Implementation-Vendor-Id: org.apache.camel
+Build-Jdk: 1.8.0_161
+Specification-Version: 2.19
+Implementation-URL: http://camel.apache.org/camel-parent/examples/came
+ l-example-ftp
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+
